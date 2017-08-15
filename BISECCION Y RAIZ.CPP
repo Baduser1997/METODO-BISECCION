@@ -1,6 +1,4 @@
-// MÃ©todo de la BisecciÃ³n
-// Autor: Canal de Youtube: Algoritmos y Algo mÃ¡s
-// 16/03/2016
+
 
 #include <iostream>
 #include <iomanip> // setprecision
